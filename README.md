@@ -2,7 +2,7 @@
 
 ## GEN26-A0H-I061
 ### Team Details
-#### **Team Name** <<"Gryffindor">> <br/>
+#### **Team Name** <<Gryffindor>> <br/>
 #### Team Members
 |         Role    |         👤 Name          |   🎓 Roll Number      |     ⚧️ Gender  |    🏫 Department / Programme    |   Hostellers/Dayscholars          |
 |:---------------:|:-------------------------|:----------------------:|:---------------:|:-------------------------------:|:---------------------------------:|   
